@@ -1,0 +1,9 @@
+{
+  "name": "mern-setup",
+  "version": "1.0.0",
+  "description": "Template for MERN",
+  "main": "index.js",
+  "author": "Michael Watts",
+  "license": "MIT",
+  "private": false
+}
